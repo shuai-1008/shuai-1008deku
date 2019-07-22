@@ -4,6 +4,18 @@ git 分布式管理系统  码云（SVN  or git）    git init初始化  身份�
 Git push --set-upstream origin 分支名称 提交分支到远端  
 问题：会把master分支上原有的内容提交同时提交上去
 解决：
+<<<<<<< HEAD
+=======
+Git merge 分支名 合并
+-d 分支名称
+Git push origin ：分支名
+分支作用
+
+
+
+
+
+>>>>>>> shuai
 Git branch  分支    checkout 切换分支   checkout -b 创建并切换分支
 gitlab 云平台
 vim linux    esc  :wq
