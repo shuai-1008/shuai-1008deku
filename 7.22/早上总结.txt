@@ -1,0 +1,21 @@
+git 分布式管理系统  码云（SVN  or git）    git init初始化  身份校验：第一次使用时   name   email
+添加add  提交 commit     关联库   Git  push  -u  origin第一次提交  
+链接远程仓库  remote add origin    
+Git push --set-upstream origin 分支名称 提交分支到远端  
+问题：会把master分支上原有的内容提交同时提交上去
+解决：
+Git merge 分支名 合并
+-d 分支名称
+Git push origin ：分支名
+分支作用
+
+
+
+
+
+Git branch  分支    checkout 切换分支   checkout -b 创建并切换分支
+gitlab 云平台
+vim linux    esc  :wq
+
+设置cookie  参数   httpOnly防止xss攻击  domain 域名  MaxAge 有效期  size 大小  Expires 过期时间 signed（加密cookie）
+读取时 req.Cookie   req.signedCookie
