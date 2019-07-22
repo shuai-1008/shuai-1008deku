@@ -17,3 +17,5 @@ var name = req.signedCookies.username
     res.send("读取成功"+name)
 })
 app.listen(5000)
+
+//mogondb  koa
